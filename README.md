@@ -1,6 +1,3 @@
----
-layout: post
----
 # niimbot-template
 
 ## 필라맨트 카드 라벨 - 프루사 Prusa
