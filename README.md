@@ -68,3 +68,31 @@
 ```
 【t-nut(30*15)】,이 메시지를 복사합니다⊙64b91d3e89292e5f312310ac⊙,열기👉NIIMBOT👈。
 ```
+<br/>
+
+## GT풀리 라벨 - GT 타이밍 풀리 Timing pulley
+![t-pulley template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/t-pulley.jpeg)
+```
+【t-pulley(30*15)】,이 메시지를 복사합니다⊙64c0a99f7d87114051e2a30e⊙,열기👉NIIMBOT👈。
+```
+<br/>
+
+## GT풀리 라벨 - GT 아이들러 풀리 Idler pulley with teeth
+![i-pulley-t template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/i-pulley-t.jpeg)
+```
+【i-pulley-t(30*15)】,이 메시지를 복사합니다⊙64c0a98689292e5f3123242f⊙,열기👉NIIMBOT👈。
+```
+<br/>
+
+## GT풀리 라벨 - GT 아이들러 풀리 Idler pulley without teeth
+![i-pulley-s template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/i-pulley-s.jpeg)
+```
+【i-pulley-s(30*15)】,이 메시지를 복사합니다⊙64c0a9ae7d87114051e2a30f⊙,열기👉NIIMBOT👈。
+```
+<br/>
+
+## GT벨트 라벨 - GT 타이밍 벨트 Timing blet
+![belt template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/belt.jpeg)
+```
+【belt(30*15)】,이 메시지를 복사합니다⊙64c0a9ce89292e5f31232430⊙,열기👉NIIMBOT👈。
+```
