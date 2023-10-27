@@ -1,5 +1,7 @@
 # niimbot-template
 
+https://johwanghee.github.io/niimbot-template/
+
 ## 필라맨트 카드 라벨 - 프루사 Prusa
 ![fcard-prusa template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/fcard-prusa.jpeg)
 ```
@@ -95,4 +97,16 @@
 ![belt template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/belt.jpeg)
 ```
 【belt(30*15)】,이 메시지를 복사합니다⊙64c0a9ce89292e5f31232430⊙,열기👉NIIMBOT👈。
+```
+
+## 히트 인서트 - Heat Staking Inserts
+![heat staking inserts](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/inserts.jpeg)
+```
+【heat-insert(30*15)】,이 메시지를 복사합니다⊙653b3a0c07cbe3397fface65⊙,열기👉NIIMBOT👈。
+```
+
+## 블라인드 조인트 클립 - Blind Joint Clip
+![blind joint clip](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/joint-clip.jpeg)
+```
+【joint-clip(30*15)】,이 메시지를 복사합니다⊙653b3a535cb0cb0f040368dd⊙,열기👉NIIMBOT👈。
 ```
