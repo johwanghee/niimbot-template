@@ -72,6 +72,20 @@ https://johwanghee.github.io/niimbot-template/
 ```
 <br/>
 
+## 너트라벨 - 너트 nut
+![t-nut template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/nut.jpeg)
+```
+【nut(30*15)】,이 메시지를 복사합니다⊙6551d86a017286413dc6dc5a⊙,열기👉NIIMBOT👈。
+```
+<br/>
+
+## 너트라벨 - 플렌지너트 Flange nut
+![t-nut template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/f-nut.jpeg)
+```
+【flange-nut(30*15)】,이 메시지를 복사합니다⊙6551d88a017286413dc6dc5b⊙,열기👉NIIMBOT👈。
+```
+<br/>
+
 ## GT풀리 라벨 - GT 타이밍 풀리 Timing pulley
 ![t-pulley template thumbnail](https://cdn.jsdelivr.net/gh/johwanghee/niimbot-template/images/t-pulley.jpeg)
 ```
